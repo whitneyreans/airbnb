@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  background-color: #F5F5F5;
+}
+
+.nav {
+  padding: 5px;
+  background-color: #FF7E57;
+  border-bottom: 1px solid #ED6E47;
+}
+
+.airbnb {
+  font-family: 'Lily Script One', cursive;
+  font-size: 35px;
+  color: #F5F4E4;
+  text-decoration: none;
+}
+
+/*.nav a {
+  color: #F5F4E4;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+  font-size: 25px;
+  padding-top: 8px;
+  padding-right: 20px;*/
+
+/*}*/
+
+.links {
+  color: #F5F4E4;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+  font-size: 25px;
+  padding-top: 8px;
+  padding-right: 20px;
+  float: right;
+  padding-left: 50px;
+
+}
+
+.link {
+  padding-right: 50px;
+  padding-left: 50px;
+
+}
+
+.banner {
+  background-image: url("image3.png");
+  background-color: #fff;
+  background-repeat: none;
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-position: center center;
+  border-bottom: 1px solid #4B4C4D;
+  font-family: 'Poiret One', cursive;
+  font-size: 40px;
+  color: #3B3B3B;
+  text-align: center;
+  padding-top: 100px;
+
+}
+
+.sign-up-banner {
+  background-image: url("image1.jpg");
+  background-color: #fff;
+  background-repeat: none;
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-position: center center;
+  border-bottom: 1px solid #4B4C4D;
+  font-family: 'Poiret One', cursive;
+  font-size: 40px;
+  color: #3B3B3B;
+}
+
+.bannerletter {
+  padding-left: 58%;
+  padding-top: 8.5%;
+}
+
+.bannerletter2 {
+  padding-left: 53%;
+}
+
+.loginbanner {
+  background-image: url("image6.jpg");
+  background-color: #fff;
+  background-repeat: none;
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-position: center center;
+  border-bottom: 1px solid #4B4C4D;
+  font-family: 'Poiret One', cursive;
+  font-size: 40px;
+  color: #3B3B3B;
+}
